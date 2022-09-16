@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 > Trilha Explorer 
 
-Projeto contruido do evento Next Level Week da Rocketseat.
+Projeto construido do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://github.comhttps://jhonmercedes.github.io/nwl/)
 
